@@ -5,8 +5,8 @@
 <style type="text/css">
 	.st0{fill-rule:evenodd;clip-rule:evenodd;}
 	.st1{clip-path:url(#SVGID_4_);}
-	.st2{clip-path:url(#SVGID_6_);}
-	.st3{clip-path:url(#SVGID_8_);}
+	.st2{fill:#040000;}
+	.st3{fill:#1D1D1B;}
 </style>
 <path class="st0" d="M2.87,0L0.72,5.49v22.45h7.64V32h4.3l4.06-4.06h6.21l8.36-8.36V0H2.87z M28.42,18.15l-4.78,4.78H16l-4.06,4.06
 	v-4.06H5.49V2.87h22.93V18.15z M23.64,8.36v8.35h-2.87V8.36H23.64z M16,8.36v8.35h-2.87V8.36H16z"/>
