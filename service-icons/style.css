@@ -1,17 +1,17 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?ca6eig');
-  src:  url('fonts/icomoon.eot?ca6eig#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?ca6eig') format('truetype'),
-    url('fonts/icomoon.woff?ca6eig') format('woff'),
-    url('fonts/icomoon.svg?ca6eig#icomoon') format('svg');
+  font-family: 'service-icons';
+  src:  url('fonts/service-icons.eot?ca6eig');
+  src:  url('fonts/service-icons.eot?ca6eig#iefix') format('embedded-opentype'),
+    url('fonts/service-icons.ttf?ca6eig') format('truetype'),
+    url('fonts/service-icons.woff?ca6eig') format('woff'),
+    url('fonts/service-icons.svg?ca6eig#service-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'service-icons' !important;
   speak: none;
   font-style: normal;
   font-weight: normal;
